@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vikshith18/LeetCode/tree/master/0088-merge-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Vikshith18/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -13,4 +14,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vikshith18/LeetCode/tree/master/0088-merge-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Vikshith18/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Vikshith18/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
