@@ -48,9 +48,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Vikshith18/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vikshith18/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vikshith18/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+## String
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Vikshith18/LeetCode/tree/master/0316-remove-duplicate-letters) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Vikshith18/LeetCode/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Vikshith18/LeetCode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
