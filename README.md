@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vikshith18/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vikshith18/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/Vikshith18/LeetCode/tree/master/0682-baseball-game) |
 | [1331-rank-transform-of-an-array](https://github.com/Vikshith18/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vikshith18/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Two Pointers
@@ -49,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Vikshith18/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0682-baseball-game](https://github.com/Vikshith18/LeetCode/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vikshith18/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Vikshith18/LeetCode/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vikshith18/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 ## String
 |  |
