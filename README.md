@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vikshith18/LeetCode/tree/master/0007-reverse-integer) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vikshith18/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -68,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vikshith18/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/Vikshith18/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vikshith18/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Vikshith18/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vikshith18/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
 | ------- |
