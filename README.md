@@ -23,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vikshith18/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vikshith18/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Vikshith18/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikshith18/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Vikshith18/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikshith18/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vikshith18/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/Vikshith18/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vikshith18/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikshith18/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Vikshith18/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vikshith18/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikshith18/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -83,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vikshith18/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikshith18/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
