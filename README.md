@@ -42,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Vikshith18/LeetCode/tree/master/0100-same-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikshith18/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Vikshith18/LeetCode/tree/master/0100-same-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vikshith18/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -91,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vikshith18/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vikshith18/LeetCode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Vikshith18/LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
